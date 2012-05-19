@@ -18,7 +18,7 @@ Minglun Gong and Annie Tousignant pp.85-96 of Image Analysis and Recognition,
 2008. Proceedings, Aurelio C. Campilho, Mohamed S. Kamel (Eds.).
 Lecture Notes in Computer Science 5112, Springer 2008, ISBN 978-3-540-69811-1.
 
-.. note:: Currently, only binary-mode PPM (P6) files are supported.
+**Note:** Currently, only binary-mode PPM (P6) files are supported.
 
 
 ===========
